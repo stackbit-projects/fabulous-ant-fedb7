@@ -68,7 +68,7 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-    subtitle: Yes! Finally this feels great!
+    subtitle: 'Yes! Finally, this feels great!'
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
