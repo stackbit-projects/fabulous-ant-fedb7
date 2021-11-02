@@ -40,7 +40,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: none
+        borderRadius: small
         borderWidth: 4
         borderStyle: none
         borderColor: border-neutral
