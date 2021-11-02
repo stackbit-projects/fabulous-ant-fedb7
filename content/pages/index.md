@@ -67,7 +67,7 @@ sections:
         justifyContent: flex-start
     subtitle: 'Yes! Finally, this feels great!'
   - type: FeaturedPostsSection
-    variant: variant-c
+    variant: variant-b
     colors: colors-c
     backgroundWidth: full
     title: Blog Posts
