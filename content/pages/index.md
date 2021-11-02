@@ -42,7 +42,7 @@ sections:
         flexDirection: row
         borderRadius: small
         borderWidth: 4
-        borderStyle: none
+        borderStyle: dotted
         borderColor: border-neutral
       title:
         fontWeight: '700'
